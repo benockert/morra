@@ -1,1 +1,3 @@
-morra
+### Morra
+
+Usage: `./reach react`
